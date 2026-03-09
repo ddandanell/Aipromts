@@ -1,0 +1,6 @@
+{
+  "task": "Analyze Q3 sales performance across product categories",
+  "data": "Monthly sales data (CSV) for Q1–Q3 with columns: date, category, revenue, units_sold, region",
+  "goals": ["Identify top-performing categories", "Detect seasonal trends", "Find underperforming regions"],
+  "rules": "Quantify all findings. Flag data gaps. Use statistical significance threshold of p < 0.05."
+}

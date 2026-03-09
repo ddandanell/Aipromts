@@ -1,0 +1,12 @@
+model: gpt-4
+temperature: 0.2
+max_tokens: 4000
+
+tools:
+  - web_search
+  - scraper
+  - code_execution
+
+memory:
+  type: vector
+  database: chroma
